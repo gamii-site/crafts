@@ -1,0 +1,1 @@
+var e={id:`lamplight`,title:`灯火(ともしび)`};export{e as t};

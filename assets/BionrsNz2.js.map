@@ -1,0 +1,1 @@
+{"version":3,"file":"BionrsNz2.js","names":[],"sources":["../../src/ui/items/beads/iron/bunkBed/name.ts"],"sourcesContent":["export const name = {\n  id: 'bunk-bed',\n  title: '二段ベッド'\n}\n"],"mappings":"AAAA,IAAa,EAAO,CAClB,GAAI,WACJ,MAAO,QACR"}

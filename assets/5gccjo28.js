@@ -1,0 +1,1 @@
+var e=`/crafts/assets/01_thumbnail-jImY5Xgy.jpg`,t=`/crafts/assets/01_thumbnail-kKfou9AJ.mp4`;export{e as n,t};

@@ -1,0 +1,1 @@
+{"version":3,"file":"ZEsE9VW-2.js","names":[],"sources":["../../src/ui/items/beads/iron/cylinderOrnament/name.ts"],"sourcesContent":["export const name = {\n  id: 'cylinder-ornament',\n  title: 'シリンダー装飾'\n}\n"],"mappings":"AAAA,IAAa,EAAO,CAClB,GAAI,oBACJ,MAAO,UACR"}

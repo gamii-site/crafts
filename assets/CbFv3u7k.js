@@ -1,0 +1,1 @@
+var e=`stacked-type`;export{e as t};

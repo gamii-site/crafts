@@ -1,0 +1,1 @@
+var e=`/crafts/assets/01.switch01-DiBlp0mv.jpg`;export{e as t};

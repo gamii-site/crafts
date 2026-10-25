@@ -1,0 +1,1 @@
+var e={counterIncrement:`number`,_marker:{content:`"(" counter(number) ")"`}},t=e=>({as:`ol`,counterReset:`number ${e-1}`});export{t as n,e as t};

@@ -1,0 +1,1 @@
+var e={id:`upright-piano`,title:`アップライト ピアノ`};export{e as t};

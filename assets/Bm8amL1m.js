@@ -1,0 +1,1 @@
+var e=`sliding-partition`;export{e as t};

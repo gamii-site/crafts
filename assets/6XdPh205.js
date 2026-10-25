@@ -1,0 +1,1 @@
+var e=`connect-pattern-01`;export{e as t};

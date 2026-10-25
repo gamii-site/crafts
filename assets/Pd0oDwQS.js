@@ -1,0 +1,1 @@
+var e=`belt-transmission`;export{e as t};

@@ -1,0 +1,1 @@
+{"version":3,"file":"BtOxLaGx2.js","names":[],"sources":["../../src/ui/items/block/lego/openSesame/name.ts"],"sourcesContent":["export const name = {\n  id: 'open-sesame',\n  title: '秘密基地への入り口'\n}\n"],"mappings":"AAAA,IAAa,EAAO,CAClB,GAAI,cACJ,MAAO,YACR"}

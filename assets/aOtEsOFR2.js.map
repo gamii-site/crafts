@@ -1,0 +1,1 @@
+{"version":3,"file":"aOtEsOFR2.js","names":[],"sources":["../../src/ui/items/block/lego/rubberBandGun/name.ts"],"sourcesContent":["export const name = {\n  id: 'rubber-band-gun',\n  title: '輪ゴム銃'\n}\n"],"mappings":"AAAA,IAAa,EAAO,CAClB,GAAI,kBACJ,MAAO,OACR"}

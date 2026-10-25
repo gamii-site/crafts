@@ -1,0 +1,1 @@
+var e={id:`starting-gate`,title:`スターティングゲート`};export{e as t};

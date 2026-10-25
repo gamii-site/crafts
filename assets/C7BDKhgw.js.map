@@ -1,0 +1,1 @@
+{"version":3,"file":"C7BDKhgw.js","names":[],"sources":["../../src/ui/items/block/lego/escalatorTypeConveyor/name.ts"],"sourcesContent":["export const name = {\n  id: 'escalator-type-conveyor',\n  title: 'エスカレーター式 コンベアー'\n}\n"],"mappings":"AAAA,IAAa,EAAO,CAClB,GAAI,0BACJ,MAAO,iBACR"}

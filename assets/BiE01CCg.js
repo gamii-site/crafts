@@ -1,0 +1,1 @@
+var e=`gear-slide`;export{e as t};

@@ -1,0 +1,1 @@
+var e={id:`letter-decoration`,title:`お手紙デコレーション`};export{e as t};

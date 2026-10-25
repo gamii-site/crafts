@@ -1,0 +1,1 @@
+var e=`bevel-gear`;export{e as t};

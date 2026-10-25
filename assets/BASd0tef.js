@@ -1,0 +1,1 @@
+import{w as e}from"./B0F9rPWH.js";var{withProvider:t,withContext:n,useStyles:r,PropsProvider:i}=e({key:`card`}),a=t(`div`,`root`),o=n(`div`,`body`),s=n(`div`,`header`),c=n(`div`,`footer`),l=n(`h3`,`title`),u=n(`p`,`description`);export{a,s as i,u as n,l as o,c as r,o as t};

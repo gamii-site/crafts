@@ -1,0 +1,1 @@
+var e={id:`pythagoras-switch`,title:`ピタゴラスイッチ`};export{e as t};

@@ -1,0 +1,1 @@
+var e=`cam-mechanism`;export{e as t};

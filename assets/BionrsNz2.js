@@ -1,0 +1,1 @@
+var e={id:`bunk-bed`,title:`二段ベッド`};export{e as t};

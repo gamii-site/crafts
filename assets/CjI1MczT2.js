@@ -1,0 +1,1 @@
+var e={id:`ball-ornament`,title:`ボール型装飾`};export{e as t};

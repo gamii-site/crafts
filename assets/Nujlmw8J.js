@@ -1,0 +1,1 @@
+var e=`link-mechanism`;export{e as t};

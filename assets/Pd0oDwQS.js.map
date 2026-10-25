@@ -1,0 +1,1 @@
+{"version":3,"file":"Pd0oDwQS.js","names":[],"sources":["../../src/ui/items/block/lego/method/beltTransmission/name.ts"],"sourcesContent":["export const name = 'belt-transmission'\n"],"mappings":"AAAA,IAAa,EAAO"}

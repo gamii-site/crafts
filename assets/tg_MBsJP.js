@@ -1,0 +1,1 @@
+var e={id:`robot-1`,title:`ロボット(自立＆可動)`};export{e as t};

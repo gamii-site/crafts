@@ -1,0 +1,1 @@
+var e=`wire-structure`;export{e as t};

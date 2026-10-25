@@ -1,0 +1,1 @@
+var e=`timing-mechanism`;export{e as t};

@@ -1,0 +1,1 @@
+var e=`ratchet-mechanism`;export{e as t};

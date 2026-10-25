@@ -1,0 +1,1 @@
+var e=`/crafts/assets/01.joint02-B62PlRYJ.jpg`;export{e as t};

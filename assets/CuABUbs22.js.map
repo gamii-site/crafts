@@ -1,0 +1,1 @@
+{"version":3,"file":"CuABUbs22.js","names":[],"sources":["../../src/ui/items/block/lego/greatEscape/name.ts"],"sourcesContent":["export const name = {\n  id: 'great-escape',\n  title: '大逃走'\n}\n"],"mappings":"AAAA,IAAa,EAAO,CAClB,GAAI,eACJ,MAAO,MACR"}

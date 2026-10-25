@@ -1,0 +1,1 @@
+var e=`/crafts/assets/normal-BKUQdOSy.mp4`,t=`/crafts/assets/small-C4ttQUGX.mp4`;export{e as n,t};

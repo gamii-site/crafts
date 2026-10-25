@@ -1,0 +1,1 @@
+import{n as e}from"./C47JuxvO.js";import{t}from"./CDhAqXQ0.js";var n=e(t(),1);function r(e){return(0,n.jsxs)(n.Fragment,{children:[`すみません。作成中です。`,(0,n.jsx)(`br`,{}),(0,n.jsx)(`br`,{}),`動画は "隠し階段" を作った感じ。`,(0,n.jsx)(`br`,{}),`(２段だけですが⋯)`]})}export{r as default};

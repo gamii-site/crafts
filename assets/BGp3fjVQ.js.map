@@ -1,0 +1,1 @@
+{"version":3,"file":"BGp3fjVQ.js","names":[],"sources":["../../src/ui/items/block/lego/elevator/name.ts"],"sourcesContent":["export const name = {\n  id: 'elevator',\n  title: 'エレベーター'\n}\n"],"mappings":"AAAA,IAAa,EAAO,CAClB,GAAI,WACJ,MAAO,SACR"}

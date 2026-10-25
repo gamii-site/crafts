@@ -1,0 +1,1 @@
+var e=`/crafts/assets/beads_large-vifMkELk.svg`;export{e as t};

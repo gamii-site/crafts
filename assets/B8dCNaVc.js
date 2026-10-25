@@ -1,0 +1,1 @@
+var e=`rotational-movement`;export{e as t};

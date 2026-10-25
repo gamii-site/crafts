@@ -1,0 +1,1 @@
+var e={id:`auto-door-double-leaf`,title:`両開きの自動ドア`};export{e as t};

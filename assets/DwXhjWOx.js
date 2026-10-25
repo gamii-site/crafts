@@ -1,0 +1,1 @@
+var e=`connection-04`;export{e as t};

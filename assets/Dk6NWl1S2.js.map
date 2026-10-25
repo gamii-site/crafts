@@ -1,0 +1,1 @@
+{"version":3,"file":"Dk6NWl1S2.js","names":[],"sources":["../../src/ui/items/beads/iron/piggyBank/name.ts"],"sourcesContent":["export const name = {\n  id: 'piggy-bank',\n  title: '貯金箱'\n}\n"],"mappings":"AAAA,IAAa,EAAO,CAClB,GAAI,aACJ,MAAO,MACR"}

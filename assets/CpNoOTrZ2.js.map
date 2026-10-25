@@ -1,0 +1,1 @@
+{"version":3,"file":"CpNoOTrZ2.js","names":[],"sources":["../../src/ui/items/block/lego/staircaseTornado/name.ts"],"sourcesContent":["export const name = {\n  id: 'staircase-tornado',\n  title: '階段トルネード'\n}\n"],"mappings":"AAAA,IAAa,EAAO,CAClB,GAAI,oBACJ,MAAO,UACR"}

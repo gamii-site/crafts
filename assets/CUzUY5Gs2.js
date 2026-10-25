@@ -1,0 +1,1 @@
+var e={id:`peek-a-boo`,title:`かくれているの だ〜れ？`};export{e as t};

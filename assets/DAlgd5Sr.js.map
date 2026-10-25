@@ -1,0 +1,1 @@
+{"version":3,"file":"DAlgd5Sr.js","names":[],"sources":["../../src/ui/items/block/lego/lamplight/name.ts"],"sourcesContent":["export const name = {\n  id: 'lamplight',\n  title: '灯火(ともしび)'\n}\n"],"mappings":"AAAA,IAAa,EAAO,CAClB,GAAI,YACJ,MAAO,WACR"}

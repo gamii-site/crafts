@@ -1,0 +1,1 @@
+var e=`bend-flat-slide`;export{e as t};

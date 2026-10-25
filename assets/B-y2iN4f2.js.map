@@ -1,0 +1,1 @@
+{"version":3,"file":"B-y2iN4f2.js","names":[],"sources":["../../src/ui/items/beads/iron/boxWithLid/name.ts"],"sourcesContent":["export const name = {\n  id: 'box-with-a-lid',\n  title: 'フタを開けれるボックス'\n}\n"],"mappings":"AAAA,IAAa,EAAO,CAClB,GAAI,iBACJ,MAAO,cACR"}

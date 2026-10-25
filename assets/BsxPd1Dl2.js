@@ -1,0 +1,1 @@
+var e={id:`bicycle`,title:`サイクリング`};export{e as t};

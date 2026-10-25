@@ -1,0 +1,1 @@
+var e={id:`monorail`,title:`モノレール`};export{e as t};

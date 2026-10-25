@@ -1,0 +1,1 @@
+var e={id:`rubber-band-gun`,title:`輪ゴム銃`};export{e as t};

@@ -1,0 +1,1 @@
+var e=`/crafts/assets/02.pythagoras-BPACrGhn.jpg`;export{e as t};

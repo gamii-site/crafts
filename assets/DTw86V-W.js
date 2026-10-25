@@ -1,0 +1,1 @@
+var e={id:`spiral-staircase`,title:`螺旋階段(らせんかいだん)`};export{e as t};

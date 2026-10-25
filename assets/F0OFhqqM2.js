@@ -1,0 +1,1 @@
+var e={id:`dance-holl`,title:`ダンスホール`};export{e as t};

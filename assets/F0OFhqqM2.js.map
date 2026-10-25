@@ -1,0 +1,1 @@
+{"version":3,"file":"F0OFhqqM2.js","names":[],"sources":["../../src/ui/items/block/lego/danceHoll/name.ts"],"sourcesContent":["export const name = {\n  id: 'dance-holl',\n  title: 'ダンスホール'\n}\n"],"mappings":"AAAA,IAAa,EAAO,CAClB,GAAI,aACJ,MAAO,SACR"}

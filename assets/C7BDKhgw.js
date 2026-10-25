@@ -1,0 +1,1 @@
+var e={id:`escalator-type-conveyor`,title:`エスカレーター式 コンベアー`};export{e as t};

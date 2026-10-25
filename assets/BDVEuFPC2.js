@@ -1,0 +1,1 @@
+var e=`/crafts/assets/main01-Bo_MyDFs.jpg`;export{e as t};

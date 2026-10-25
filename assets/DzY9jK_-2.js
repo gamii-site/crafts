@@ -1,0 +1,1 @@
+var e={id:`dog-greeting`,title:`お出迎え犬`};export{e as t};

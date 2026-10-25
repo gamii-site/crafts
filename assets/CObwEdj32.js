@@ -1,0 +1,1 @@
+var e={id:`single-flower`,title:`一輪の花`};export{e as t};

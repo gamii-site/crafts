@@ -1,0 +1,1 @@
+var e=`/crafts/assets/main02-CATiERSV.jpg`;export{e as t};

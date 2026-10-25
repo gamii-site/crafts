@@ -1,0 +1,1 @@
+var e=`rubber-mechanism`;export{e as t};

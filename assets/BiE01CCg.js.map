@@ -1,0 +1,1 @@
+{"version":3,"file":"BiE01CCg.js","names":[],"sources":["../../src/ui/items/block/lego/method/gearSlide/name.ts"],"sourcesContent":["export const name = 'gear-slide'\n"],"mappings":"AAAA,IAAa,EAAO"}

@@ -1,0 +1,1 @@
+var e=`iron-pattern-01`;export{e as t};

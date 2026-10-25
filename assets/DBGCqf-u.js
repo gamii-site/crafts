@@ -1,0 +1,1 @@
+import{n as e}from"./C47JuxvO.js";import{t}from"./D2gex077.js";import{t as n}from"./CDhAqXQ0.js";import{r}from"./v6cwp8pn.js";var i=e(n(),1),a=(0,e(t(),1).forwardRef)(function(e,t){return(0,i.jsx)(r,{align:`center`,...e,direction:`column`,ref:t})});a.displayName=`VStack`;export{a as t};

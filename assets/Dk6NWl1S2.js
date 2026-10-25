@@ -1,0 +1,1 @@
+var e={id:`piggy-bank`,title:`貯金箱`};export{e as t};

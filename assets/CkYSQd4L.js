@@ -1,0 +1,1 @@
+var e=`/crafts/assets/main00-D_qFAEaf.jpg`;export{e as t};

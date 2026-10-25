@@ -1,0 +1,1 @@
+var e={id:`elevator`,title:`エレベーター`};export{e as t};

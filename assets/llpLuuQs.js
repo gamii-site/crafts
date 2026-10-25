@@ -1,0 +1,1 @@
+var e=`surface-configuration`;export{e as t};

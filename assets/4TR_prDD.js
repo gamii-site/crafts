@@ -1,0 +1,1 @@
+var e=`gear-rotation-slide`;export{e as t};

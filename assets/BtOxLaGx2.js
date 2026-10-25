@@ -1,0 +1,1 @@
+var e={id:`open-sesame`,title:`秘密基地への入り口`};export{e as t};

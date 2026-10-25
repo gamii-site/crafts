@@ -1,0 +1,1 @@
+import{n as e}from"./C47JuxvO.js";import{t}from"./CDhAqXQ0.js";var n=e(t(),1);function r(e){return(0,n.jsx)(n.Fragment,{children:`すみません。作成中です。`})}export{r as default};

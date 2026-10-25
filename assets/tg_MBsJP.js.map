@@ -1,0 +1,1 @@
+{"version":3,"file":"tg_MBsJP.js","names":[],"sources":["../../src/ui/items/block/lego/robot1/name.ts"],"sourcesContent":["export const name = {\n  id: 'robot-1',\n  title: 'ロボット(自立＆可動)'\n}\n"],"mappings":"AAAA,IAAa,EAAO,CAClB,GAAI,UACJ,MAAO,cACR"}

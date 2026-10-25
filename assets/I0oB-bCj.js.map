@@ -1,0 +1,1 @@
+{"version":3,"file":"I0oB-bCj.js","names":[],"sources":["../../src/ui/items/block/laq/uprightPiano/name.ts"],"sourcesContent":["export const name = {\n  id: 'upright-piano',\n  title: 'アップライト ピアノ'\n}\n"],"mappings":"AAAA,IAAa,EAAO,CAClB,GAAI,gBACJ,MAAO,aACR"}

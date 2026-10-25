@@ -1,0 +1,1 @@
+var e={id:`rolling-ball`,title:`ボール コロコロ`};export{e as t};

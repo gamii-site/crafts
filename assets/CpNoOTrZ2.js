@@ -1,0 +1,1 @@
+var e={id:`staircase-tornado`,title:`階段トルネード`};export{e as t};

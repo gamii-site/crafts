@@ -1,0 +1,1 @@
+{"version":3,"file":"DrpSDzMG2.js","names":[],"sources":["../../src/ui/items/block/lego/autoDoorDoubleLeaf/name.ts"],"sourcesContent":["export const name = {\n  id: 'auto-door-double-leaf',\n  title: '両開きの自動ドア'\n}\n"],"mappings":"AAAA,IAAa,EAAO,CAClB,GAAI,wBACJ,MAAO,WACR"}

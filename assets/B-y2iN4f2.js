@@ -1,0 +1,1 @@
+var e={id:`box-with-a-lid`,title:`フタを開けれるボックス`};export{e as t};

@@ -1,0 +1,1 @@
+var e={id:`divine-dragon`,title:`ディバインドラゴン(自立＆可動)`};export{e as t};

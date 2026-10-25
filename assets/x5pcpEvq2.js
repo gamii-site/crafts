@@ -1,0 +1,1 @@
+var e=`tin-power`;export{e as t};
