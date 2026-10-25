@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /404.html
 
-Sitemap: https://gamii-site.github.io/sitemap.xml
+Sitemap: https://gamii-site.github.io/crafts/sitemap.xml
