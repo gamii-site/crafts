@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="jp">
+  <head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="noindex" />
+    <title>アイロンビーズ３D(立体)で楽しもう：がみ〜工房-工作室</title>
+    <meta 
+      name='description' 
+      content='子供たちのワクワクを、アイロンビーズでの３D工作で応援するサイトです。工作が好き⇒腕試しにトライ。何すれば...⇒レシピの手順でチャレンジ。好みの方法で楽しんで欲しいです。'
+      />
+  </head>
+  <body>
+    <div id="message"></div>
+    <script>
+      const msgArea = document.getElementById('message');
+      if (msgArea) {
+        msgArea.innerHTML = '<p>少々お待ちください。<br/>ページ情報を構築します。</p>';
+      }
+      setTimeout(() => {
+        const pathname = window.location.pathname;
+        const hash = window.location.hash?.slice(1);
+        window.location.href = 'https://gamii-site.github.io/crafts/?path=' + pathname + '&hash=' + hash;　　　　　　　　　　　　　　　　　　　　　　
+      }, 100)
+    </script>
+    <noscript>
+      <p>
+        このページは JavaScript を使用しています。ブラウザーの設定で JavaScript を有効にしてください。
+      </p>
+    </noscript>
+  </body>
+</html>
+
