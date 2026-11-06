@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Stick&display=swap" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css2?family=Kosugi+Maru&display=swap" rel="stylesheet" />
-    <script type="module" crossorigin src="/crafts/assets/index-Cd-HqkYF.js"></script>
+    <script type="module" crossorigin src="/crafts/assets/index-DwW1RFrz.js"></script>
     <link rel="modulepreload" crossorigin href="/crafts/assets/C47JuxvO.js">
     <link rel="modulepreload" crossorigin href="/crafts/assets/D39romKQ.js">
     <link rel="modulepreload" crossorigin href="/crafts/assets/CDhAqXQ0.js">
@@ -29,19 +29,24 @@
     <link rel="modulepreload" crossorigin href="/crafts/assets/1JLbAEgv.js">
     <link rel="modulepreload" crossorigin href="/crafts/assets/CKR7zlL5.js">
     <link rel="modulepreload" crossorigin href="/crafts/assets/BEqwtMg7.js">
-    <link rel="stylesheet" crossorigin href="/crafts/assets/index-5KNOB5Fc.css">
+    <link rel="stylesheet" crossorigin href="/crafts/assets/index-DDeLrWfN.css">
     <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
   </head>
   <body>
     <style>
       @property --fluctuation-color { syntax: '<color>'; inherits: false; initial-value: transparent; }
       @property --fluctuation-shadow-color { syntax: '<color>'; inherits: false; initial-value: transparent; }
+      html {
+        width: 100dvw; max-width: 100dvw;
+        height: 100dvh; max-height: 100dvh;
+        overflow: hidden;
+      }
       body {
         --splash-z-index: 2000;
         --body-margin: 1px;
         margin: var(--body-margin);
-        width: calc(100dvw - (var(--body-margin) * 2));
-        height: calc(100dvh - (var(--body-margin) * 2));
+        width: calc(100dvw - (var(--body-margin) * 2)); max-width: calc(100dvw - (var(--body-margin) * 2));
+        height: calc(100dvh - (var(--body-margin) * 2)); max-height: calc(100dvh - (var(--body-margin) * 2));
         position: relative;
         overflow: hidden;
         > span {
@@ -49,6 +54,7 @@
           top: calc(50% + 4rem);
           left: 50%;
           transform: translateX(-50%) translateY(-50%);
+          transform-origin: 50% 0%;
           z-index: var(--splash-z-index);
           opacity: 0;
           font-size: 1.5rem;
@@ -98,13 +104,13 @@
         }
         50% {
           color: rgb(255 255 255 / 1);
-          font-size: 1.5rem;
           top: calc(50% + 4rem);
+          font-size: 1.5rem;
         }
         100% {
           color: rgb(255 255 255 / 0);
-          font-size: 3rem;
           top: calc(50% + 6rem);
+          font-size: 3rem;
         }
       }
       @keyframes splashMoveToBack {
