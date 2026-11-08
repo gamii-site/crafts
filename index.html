@@ -4,11 +4,12 @@
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/crafts/favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>がみ〜工房-工作室</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Stick&display=swap" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css2?family=Kosugi+Maru&display=swap" rel="stylesheet" />
-    <script type="module" crossorigin src="/crafts/assets/index-C8lJ2CPk.js"></script>
+    <script type="module" crossorigin src="/crafts/assets/index-BfSQ1LC_.js"></script>
     <link rel="modulepreload" crossorigin href="/crafts/assets/C47JuxvO.js">
     <link rel="modulepreload" crossorigin href="/crafts/assets/D39romKQ.js">
     <link rel="modulepreload" crossorigin href="/crafts/assets/CDhAqXQ0.js">
@@ -33,6 +34,16 @@
     <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
   </head>
   <body>
+    <script>
+      /*
+       * titleタグは、この後react内でpath毎に適切に付け直すので、ここでデフォルトのタイトルは削除する。
+       * 念のためで、javascript非対応のボット用にデフォルトタイトルとこの削除処理を入れた。(すぐ要らなくなると思いますが、それでreact直で載せてるので)
+       */
+      const targetTitle = document.querySelector('title');
+      if (targetTitle) {
+        targetTitle.remove();
+      }
+    </script>
     <style>
       html {
         width: 100dvw; max-width: 100dvw;

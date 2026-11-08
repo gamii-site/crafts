@@ -1,1 +1,0 @@
-var e=`/crafts/assets/00.bend05-D_qFAEaf.jpg`;export{e as t};
