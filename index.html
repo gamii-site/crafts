@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Stick&display=swap" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css2?family=Kosugi+Maru&display=swap" rel="stylesheet" />
-    <script type="module" crossorigin src="/crafts/assets/index-DCT-hNUq.js"></script>
+    <script type="module" crossorigin src="/crafts/assets/index-C8lJ2CPk.js"></script>
     <link rel="modulepreload" crossorigin href="/crafts/assets/C47JuxvO.js">
     <link rel="modulepreload" crossorigin href="/crafts/assets/D39romKQ.js">
     <link rel="modulepreload" crossorigin href="/crafts/assets/CDhAqXQ0.js">
@@ -29,11 +29,23 @@
     <link rel="modulepreload" crossorigin href="/crafts/assets/1JLbAEgv.js">
     <link rel="modulepreload" crossorigin href="/crafts/assets/CKR7zlL5.js">
     <link rel="modulepreload" crossorigin href="/crafts/assets/DmHMQRUz.js">
-    <link rel="stylesheet" crossorigin href="/crafts/assets/index-CRDcep5u.css">
+    <link rel="stylesheet" crossorigin href="/crafts/assets/index-DDeLrWfN.css">
     <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
   </head>
   <body>
     <style>
+      html {
+        width: 100dvw; max-width: 100dvw;
+        height: 100dvh; max-height: 100dvh;
+        overflow: hidden;
+      }
+      body {
+        --body-margin: 1px;
+        margin: var(--body-margin);
+        width: calc(100dvw - (var(--body-margin) * 2)); max-width: calc(100dvw - (var(--body-margin) * 2));
+        height: calc(100dvh - (var(--body-margin) * 2)); max-height: calc(100dvh - (var(--body-margin) * 2));
+        overflow: hidden;
+      }
       @property --fluctuation-color { syntax: '<color>'; inherits: false; initial-value: transparent; }
       @property --fluctuation-shadow-color { syntax: '<color>'; inherits: false; initial-value: transparent; }
       body {
