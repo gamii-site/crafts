@@ -1,15 +1,18 @@
 <!doctype html>
-<html lang="jp">
+<html lang="ja-JP">
   <head>
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/crafts/favicon.svg" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/crafts/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/crafts/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/crafts/apple-touch-icon.png">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>がみ〜工房-工作室</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Stick&display=swap" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css2?family=Kosugi+Maru&display=swap" rel="stylesheet" />
-    <script type="module" crossorigin src="/crafts/assets/index-LOxoTkcv.js"></script>
+    <script type="module" crossorigin src="/crafts/assets/index-DQOM36pe.js"></script>
     <link rel="modulepreload" crossorigin href="/crafts/assets/C47JuxvO.js">
     <link rel="modulepreload" crossorigin href="/crafts/assets/D39romKQ.js">
     <link rel="modulepreload" crossorigin href="/crafts/assets/CDhAqXQ0.js">
@@ -64,12 +67,11 @@
         position: relative;
         > span {
           position: absolute;
+          z-index: var(--splash-z-index);
           top: calc(50% + 4rem);
           left: 50%;
           transform: translateX(-50%) translateY(-50%);
           transform-origin: 50% 0%;
-          z-index: var(--splash-z-index);
-          opacity: 0;
           font-size: 1.5rem;
           font-weight: bold;
           white-space: nowrap;
@@ -77,6 +79,7 @@
           animation: splasPhrase 3s forwards 1s, splashMoveToBack 4s forwards, toNone 1s forwards 4s;
         }
         > span:nth-of-type(2) {
+          color: rgb(255 255 255 / 0);
           background: repeating-radial-gradient(circle at center -4rem, var(--fluctuation-color) 0 0.1rem, transparent 0.4rem 0.5rem, var(--fluctuation-color) 0.9rem);
           background-clip: text;
           text-shadow: 0 0 5px var(--fluctuation-shadow-color);
@@ -117,13 +120,11 @@
         }
         50% {
           color: rgb(255 255 255 / 1);
-          top: calc(50% + 4rem);
-          font-size: 1.5rem;
+          transform: translateX(-50%) translateY(-50%) scale(1.0);
         }
         100% {
           color: rgb(255 255 255 / 0);
-          top: calc(50% + 6rem);
-          font-size: 3rem;
+          transform: translateX(-50%) translateY(-50%) scale(2.0);
         }
       }
       @keyframes splashMoveToBack {

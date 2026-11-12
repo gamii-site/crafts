@@ -1,0 +1,1 @@
+import"./D2gex077.js";import{f as e}from"./BxgK-Qg5.js";import"./CDhAqXQ0.js";import"./v6cwp8pn.js";import"./D428Gu6L.js";import{i as t}from"./index-DQOM36pe.js";import{t as n}from"./Cd5v8xTk.js";import{t as r}from"./B1oB3b6R.js";import{t as i}from"./BohnBnS8.js";function a(){return e(i,{path:t.block.path(),id:n.id,thumbnailImage:r,children:n.title})}export{a as default};
